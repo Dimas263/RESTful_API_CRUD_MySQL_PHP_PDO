@@ -24,3 +24,4 @@ http://localhost/RESTful API CRUD MySQL PHP PDO/delete.php
 
 # DELETE
 <img src="api_delete.png" width="1169">
+
