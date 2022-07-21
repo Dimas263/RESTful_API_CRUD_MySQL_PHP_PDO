@@ -1,0 +1,5 @@
+http://localhost/RESTful API CRUD MySQL PHP PDO/read.php
+http://localhost/RESTful API CRUD MySQL PHP PDO/single_read.php/?id=2
+http://localhost/RESTful API CRUD MySQL PHP PDO/create.php
+http://localhost/RESTful API CRUD MySQL PHP PDO/update.php
+http://localhost/RESTful API CRUD MySQL PHP PDO/delete.php
